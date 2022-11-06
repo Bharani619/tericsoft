@@ -24,7 +24,7 @@ ___
 - User can make post request and patch request to add or edit their details
 ___
 # Deployment
-- Deploy Fronted on Netlify Link - [Live Project Link](https://employee-app-1983.netlify.app/)
+- Deploy Fronted on Netlify Link - [Live Project Link](https://employee-app-98.netlify.app/)
 - Deploy Backend on heroku - [Heroku Link](https://json-server-mocker-app.herokuapp.com/employee_data)
 
 # Homepage
